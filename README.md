@@ -12,7 +12,7 @@ Este é um template de Nuxt 3 para iniciar projetos simples, porém escalonável
 	─ layouts: Layouts para as páginas da aplicação.
 	─ pages: Páginas da aplicação.
 	─ styles: Configuração global do TailwindCSS e criação de classes utilitárias.
-    - app.vue: Arquivo que engloba toda a aplicação.
+    	─ app.vue: Arquivo que engloba toda a aplicação.
 ```
 
 ## :wrench: **Tecnologias**
