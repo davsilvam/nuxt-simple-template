@@ -20,6 +20,7 @@ export default defineNuxtConfig({
     }
   },
   modules: ['@nuxtjs/tailwindcss'],
+  srcDir: 'src',
   tailwindcss: {
     cssPath: '~/styles/tailwind.css'
   }
