@@ -4,6 +4,8 @@
 
 Este é um template de Nuxt 3 para iniciar projetos simples, porém escalonável.
 
+## :file_folder: **Diretórios**
+
 ```bash
 └── src/
 	─ components: Diretório de componentes. Podem ser criados dentro de outros diretórios.
